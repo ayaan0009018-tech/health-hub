@@ -48,3 +48,4 @@ document.getElementById("result")
 
 }
 console.log("HealthHub Website Loaded Successfully!");
+console.log("HealthHub JS Loaded");
