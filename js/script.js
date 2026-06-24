@@ -47,3 +47,4 @@ document.getElementById("result")
 "Your BMI: " + bmi.toFixed(2);
 
 }
+console.log("HealthHub Website Loaded Successfully!");
