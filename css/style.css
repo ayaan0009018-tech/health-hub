@@ -145,13 +145,6 @@ footer{
     padding:12px;
     text-decoration:none;
 }
-.hero{
-    background:url('../images/hero.jpg');
-    background-size:cover;
-    background-position:center;
-    color:white;
-    padding:150px 20px;
-}
 @media(max-width:768px){
 
 header{
