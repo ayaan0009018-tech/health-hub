@@ -231,3 +231,46 @@ align-items:center;
 .disease-btn:hover {
     background: linear-gradient(135deg, #007bff, #00c6ff);
 }
+/* Navbar */
+
+.navbar{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    padding:15px 50px;
+    background:#28a745;
+}
+
+.logo{
+    display:flex;
+    align-items:center;
+}
+
+.logo img{
+    width:50px;
+    margin-right:10px;
+}
+
+.logo h2{
+    color:white;
+}
+
+.nav-links{
+    list-style:none;
+    display:flex;
+}
+
+.nav-links li{
+    margin-left:20px;
+}
+
+.nav-links a{
+    color:white;
+    text-decoration:none;
+    font-size:18px;
+    font-weight:bold;
+}
+
+.nav-links a:hover{
+    color:yellow;
+}
